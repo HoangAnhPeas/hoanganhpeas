@@ -1,5 +1,5 @@
 async function loadProjects() {
-    const res = await fetch('projects.json');
+    const res = await fetch('https://stake-departmental-pull-dependence.trycloudflare.com/projects');
     const projects = await res.json();
 
     const container = document.getElementById('project-list');
