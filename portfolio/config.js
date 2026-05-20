@@ -1,1 +1,1 @@
-const API_URL = 'https://stop-tuesday-element-easter.trycloudflare.com';
+const API_URL = 'https://peasinteractive.io.vn';
