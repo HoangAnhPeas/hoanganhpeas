@@ -55,4 +55,4 @@ The project focuses on gameplay programming, UI systems, optimization, and game 
 ## Contact
 
 * GitHub: https://github.com/HoangAnhPeas
-* Email: [hoanganhpeas003@gmail.com](mailto:hoanganhpeas003@gmail.com)
+* Email: [hoanganhpeas003@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=hoanganhpeas003@gmail.com)
